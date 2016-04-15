@@ -1,0 +1,26 @@
+{
+  "name": "nit-validator",
+  "version": "1.0.0",
+  "description": "Validates input as Guatemalan NIT (Numero de Identificacion Tributaria, something like Tax ID)",
+  "main": "src/angular-nit-validator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verynicetech/nt-nit-validator.git"
+  },
+  "keywords": [
+    "nit",
+    "Guatemala",
+    "validation",
+    "tax",
+    "id"
+  ],
+  "author": "Andres Rovira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/verynicetech/nt-nit-validator/issues"
+  },
+  "homepage": "https://github.com/verynicetech/nt-nit-validator#readme"
+}
